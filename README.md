@@ -148,8 +148,8 @@ notebooks/
 | Backend      | FastAPI / Django                       |
 | AI/ML        | PyTorch, TensorFlow, MediaPipe, OpenCV |
 | Vector / RAG | LangChain, Chroma/Pinecone             |
-| Database     | PostgreSQL / MongoDB                   |
-| Deployment   | Docker, AWS/GCP                        |
+| Database     | MongoDB                                |
+| Deployment   | Docker                                 |
 
 ---
 
@@ -172,8 +172,8 @@ Contributions, research improvements, and dataset enhancements are welcome.
 
 | Resource       | Link                                                                                                     |
 | -------------- | -------------------------------------------------------------------------------------------------------- |
-| Portfolio      | *Add link*                                                                                               |
-| LinkedIn       | *Add link*                                                                                               |
+| Portfolio      | https://kelvinportfolio2071.netlify.app/                                                                                               |
+| LinkedIn       |  https://www.linkedin.com/in/a-anto-kelvin-prabhu-48385b25a/                                             |
 | Backend Repo   | [https://github.com/kelvinprabhu/Trika.ai_BACKEND](https://github.com/kelvinprabhu/Trika.ai_BACKEND)     |
 | Dashboard Repo | [https://github.com/kelvinprabhu/trikaweb_dashboard](https://github.com/kelvinprabhu/trikaweb_dashboard) |
 
