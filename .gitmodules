@@ -1,0 +1,6 @@
+[submodule "trika_backend"]
+	path = trika_backend
+	url = https://github.com/kelvinprabhu/Trika.ai_BACKEND
+[submodule "trika_dashboard"]
+	path = trika_dashboard
+	url = https://github.com/kelvinprabhu/trikaweb_dashboard
