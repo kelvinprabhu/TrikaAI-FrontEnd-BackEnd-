@@ -57,10 +57,15 @@ Video → Pose Extraction → Keypoint Array → Model → Classification + Reps
 
 ## 📸 Screenshots & Demo Media
 Replace these placeholders with your actual files.
+## User Flow 
+![Dashboard Overview](screenshots/login.png)
 
+![Dashboard Overview](screenshots/userflow.png)
+![Dashboard Overview](screenshots/user_detail_flow.png)
 ### 🔷 Dashboard — User Progress & Session History
 
 ![Dashboard Overview](screenshots/dashboard.png)
+
 
 ### 🔷 Live Workout Classification — Web Interface
 
@@ -69,6 +74,21 @@ Replace these placeholders with your actual files.
 ### 🔷 AI Coach Feedback — Rep Counter & Form Evaluation
 
 ![AI Coach Feedback](screenshots/standarmodeinaction.png)
+## Trika Bot / Trainer
+
+![Trika Bot (LLM With user Memory and conversation memory)](screenshots/chatbot.png)
+## Trika Soul / Mind
+
+![Trika Mind (Audio Generation for custum meditation)](screenshots/meditation.png)
+## Challenge AI custum generated (Personalized)
+![Challenge Overview](screenshots/challenges.png)
+
+## Habbit And Schedule (Trika Tracker)
+![Schedule Overview](screenshots/shedule.png)
+
+![Habbit Overview](screenshots/habbitstracker.png)
+
+
 
 ---
 
